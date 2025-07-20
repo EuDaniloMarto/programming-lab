@@ -1,16 +1,43 @@
-==========================
-Laboratório de Programação
-==========================
+===================
+Lab: Linguagem Python
+===================
 
-Este repositório reúne exercícios e pequenos projetos desenvolvidos ao longo dos meus estudos em programação.
+Esta branch faz parte do repositório **programming-lab** e é dedicada aos meus estudos em Python.
 
-A estrutura está organizada por *branches*, cada uma dedicada a uma linguagem específica.
+Aqui você encontrará:
 
-Por exemplo: a branch ``lab-c`` contém meus estudos em C/C++.
+- Exercícios de lógica e sintaxe
+- Scripts para automação e resolução de problemas
+- Projetos simples em linha de comando
+- Anotações e materiais complementares
 
-Linguagens em Estudo
---------------------
+Objetivos
+---------
 
-Meu objetivo é explorar o máximo de linguagens possível, começando por C/C++.
+- Praticar a sintaxe limpa e expressiva do Python
+- Aprender a trabalhar com listas, dicionários, funções, arquivos e módulos
+- Desenvolver scripts úteis e reutilizáveis
 
-Sinta-se à vontade para acompanhar meu progresso!
+Estrutura dos Diretórios
+-------------------------
+
+- ``exercises/`` – Exercícios curtos de aprendizado
+- ``scripts/`` – Scripts com aplicação prática
+- ``projects/`` – Mini projetos com estrutura mais completa
+- ``notes/`` – Anotações e exemplos comentados (opcional)
+
+Requisitos
+----------
+
+- Python 3 instalado
+
+Para rodar um script:
+
+.. code-block:: bash
+
+   python3 scripts/exemplo.py
+
+Licença
+-------
+
+Conteúdo disponível para uso educacional e pessoal.
