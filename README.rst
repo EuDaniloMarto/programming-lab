@@ -1,16 +1,42 @@
-==========================
-Laboratório de Programação
-==========================
+====================
+Lab: HTML e CSS
+====================
 
-Este repositório reúne exercícios e pequenos projetos desenvolvidos ao longo dos meus estudos em programação.
+Esta branch faz parte do repositório **programming-lab** e é dedicada aos meus estudos em desenvolvimento web com HTML e CSS.
 
-A estrutura está organizada por *branches*, cada uma dedicada a uma linguagem específica.
+Aqui você encontrará:
 
-Por exemplo: a branch ``lab-c`` contém meus estudos em C/C++.
+- Páginas estáticas simples
+- Exemplos de estrutura semântica em HTML
+- Estilização com CSS puro
+- Exercícios práticos e desafios visuais
 
-Linguagens em Estudo
---------------------
+Objetivos
+---------
 
-Meu objetivo é explorar o máximo de linguagens possível, começando por C/C++.
+- Aprender a criar páginas HTML bem estruturadas
+- Praticar a estilização com CSS (cores, fontes, layouts, responsividade)
+- Compreender o modelo de caixa (*box model*) e posicionamento de elementos
 
-Sinta-se à vontade para acompanhar meu progresso!
+Estrutura dos Diretórios
+-------------------------
+
+- ``exercises/`` – Exemplos e trechos isolados de código
+- ``projects/`` – Páginas completas ou mini sites
+- ``assets/`` – Imagens, ícones ou outros recursos usados nos projetos
+
+Como Visualizar
+---------------
+
+Basta abrir os arquivos ``.html`` no navegador.
+
+Exemplo:
+
+.. code-block:: bash
+
+   firefox projects/portfolio/index.html
+
+Licença
+-------
+
+Código livre para fins educacionais e pessoais.
